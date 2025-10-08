@@ -6,7 +6,7 @@ This repository contains the Python implementation and results for the kinematic
 The following provides a visual demonstration of the simulated gait cycle, generated from the kinematic model.
 
 <video width="640" height="480" controls>
-  <source src="/Hardware_results/media1.mp4" type="video/mp4">
+  <source src="Hardware_results/media1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
