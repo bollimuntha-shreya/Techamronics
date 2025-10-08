@@ -3,7 +3,7 @@ This repository contains the Python implementation and results for the kinematic
 
 ## Demonstration Video
 
-🎥 [Walking Mechanism Gait](Hardware_results/demo.gif)
+🎥 [Walking Mechanism Gait](Hardware_results/media1.mp4)
 
 ## Installation
 
